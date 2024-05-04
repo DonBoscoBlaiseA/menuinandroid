@@ -86,7 +86,7 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
 }
-```  
+```
 
 ## OUTPUT: 
 <img src="https://github.com/DonBoscoBlaiseA/menuinandroid/assets/140850829/0debe5dc-2b86-4b4c-ab7a-5ef5679f93de.png">  
