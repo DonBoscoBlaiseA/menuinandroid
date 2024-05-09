@@ -90,11 +90,11 @@ public class MainActivity extends AppCompatActivity {
 <br>
 
 ## OUTPUT: 
-<img src="https://github.com/DonBoscoBlaiseA/menuinandroid/assets/140850829/1ed512c9-359c-4894-857f-6b5e0b2c75ef.png" width="900">  
+<img src="https://github.com/DonBoscoBlaiseA/menuinandroid/assets/140850829/1ed512c9-359c-4894-857f-6b5e0b2c75ef.png" width="600">  
 <br>  
 
-<img src="https://github.com/DonBoscoBlaiseA/menuinandroid/assets/140850829/f11a823f-a705-45fd-a379-e3e49a93cd3f.png" height="500">
-<img src="https://github.com/DonBoscoBlaiseA/menuinandroid/assets/140850829/f9d2fcbc-636b-4300-9510-067a89b88f8c.png" height="500">
+<img src="https://github.com/DonBoscoBlaiseA/menuinandroid/assets/140850829/f11a823f-a705-45fd-a379-e3e49a93cd3f.png" height="600">
+<img src="https://github.com/DonBoscoBlaiseA/menuinandroid/assets/140850829/f9d2fcbc-636b-4300-9510-067a89b88f8c.png" height="600">
 
 ## RESULT
 Thus a Simple Android Application to create a option menu to display menu items using Android Studio is developed and executed successfully.
